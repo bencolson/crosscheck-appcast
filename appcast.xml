@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymattes.com/xml/sparkle/rss/2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Crosscheck</title>
+        <link>https://crosscheck.colson.digital/appcast.xml</link>
+
+        <!--
+          Release workflow:
+          1. Archive in Xcode → export notarized .dmg
+          2. Sign the DMG:
+               find ~/Library/Developer/Xcode/DerivedData -name sign_update | head -1
+               /path/to/sign_update Crosscheck-X.Y.Z.dmg
+             → copy edSignature and length from output
+          3. Add an <item> below (copy the template, fill in version/date/signature/length/URL)
+          4. git commit docs/appcast.xml && git push → GitHub Pages serves it automatically
+          5. Upload .dmg to https://github.com/bencolson/Crosscheck/releases as a Release asset
+        -->
+
+    </channel>
+</rss>
