@@ -18,5 +18,19 @@
           5. Upload .dmg to https://github.com/bencolson/Crosscheck/releases as a Release asset
         -->
 
+
+        <item>
+    <title>Version 0.1.1</title>
+    <pubDate>Wed, 01 Jul 2026 09:15:41 +0000</pubDate>
+    <sparkle:version>2</sparkle:version>
+    <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/bencolson/crosscheck-appcast/releases/download/v0.1.1/Crosscheck-0.1.1.dmg"
+        sparkle:edSignature="0GWBhzhQVFjDQ7p3bAYHSXI9CveVevkOhI79U906iV8Ir7v+ZEXRBzhwnrQXUo/FYekZRjjhCgsSRph2jfOwCA=="
+        length="5498239"
+        type="application/octet-stream"/>
+</item>
+
     </channel>
 </rss>
