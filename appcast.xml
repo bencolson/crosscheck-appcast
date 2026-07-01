@@ -144,5 +144,19 @@
         type="application/octet-stream"/>
 </item>
 
+
+        <item>
+    <title>Version 0.1.9</title>
+    <pubDate>Wed, 01 Jul 2026 15:23:23 +0000</pubDate>
+    <sparkle:version>10</sparkle:version>
+    <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/bencolson/crosscheck-appcast/releases/download/v0.1.9/Crosscheck-0.1.9.dmg"
+        sparkle:edSignature="1UryrJFK+z+zAk5p1HNlXurgnF8C4OgltvburZxmo+oUYr5ScOp3fAbnOb1/NhSBEF35GqVn6bRGgu7htzcXBA=="
+        length="5640347"
+        type="application/octet-stream"/>
+</item>
+
     </channel>
 </rss>
