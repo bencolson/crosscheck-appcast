@@ -186,5 +186,19 @@
         type="application/octet-stream"/>
 </item>
 
+
+        <item>
+    <title>Version 0.1.12</title>
+    <pubDate>Wed, 01 Jul 2026 16:19:57 +0000</pubDate>
+    <sparkle:version>13</sparkle:version>
+    <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/bencolson/crosscheck-appcast/releases/download/v0.1.12/Crosscheck-0.1.12.dmg"
+        sparkle:edSignature="3ftsfSZ9lwp0zSRqBYZTuA1XMLKGvBB4qBl0krP7iHAav9M5WOQYNd7FwaOQC5DtqmsBwTdIfZf0mRacShw+DQ=="
+        length="5642745"
+        type="application/octet-stream"/>
+</item>
+
     </channel>
 </rss>
